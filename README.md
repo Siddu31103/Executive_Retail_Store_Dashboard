@@ -4,7 +4,7 @@
 
 ## Project Link
 
-https://public.tableau.com/app/profile/siddhant.gaikwad3268/viz/Executive_Retail_Store_Dashboard/Story1?publish=yes
+[Executive-Retail-Sales-Analytics-Dashboard Link](https://public.tableau.com/app/profile/siddhant.gaikwad3268/viz/Executive_Retail_Store_Dashboard/Story1?publish=yes)
 
 ## Overview
 
